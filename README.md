@@ -1,24 +1,16 @@
-# pokemon_vue
+# POKEMON_VUE
 
-## Project setup
+## SETUP DO PROJETO
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### PARA DESENVOLVIMENTO
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### COMPILAR PARA PRODUCAO
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
